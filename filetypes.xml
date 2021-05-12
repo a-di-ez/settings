@@ -8,6 +8,7 @@
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="style" type="PLAIN_TEXT" />
       <mapping ext="scssl" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
