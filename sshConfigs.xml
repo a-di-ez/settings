@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="13.55.39.156" id="c50e1544-89ed-485f-b98c-81f186254125" keyPath="$USER_HOME$/.ssh/nairn.pem" port="22" customName="nairn" nameFormat="CUSTOM" username="ubuntu">
+      <sshConfig host="13.55.39.156" id="c50e1544-89ed-485f-b98c-81f186254125" keyPath="$USER_HOME$/.ssh/nairn.pem" port="22" customName="nairn" nameFormat="CUSTOM" username="bitnami">
         <option name="customName" value="nairn" />
       </sshConfig>
       <sshConfig host="3.136.88.248" id="68affa65-f0a3-47a4-b863-ed5eb7fa6413" keyPath="$USER_HOME$/.ssh/gj-us.pem" port="22" customName="gj_wp_usa" nameFormat="CUSTOM" username="bitnami">
