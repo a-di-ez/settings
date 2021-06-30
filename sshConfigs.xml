@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.55.39.156" id="c50e1544-89ed-485f-b98c-81f186254125" keyPath="$USER_HOME$/.ssh/nairn.pem" port="22" customName="nairn" nameFormat="CUSTOM" username="ubuntu">
+        <option name="customName" value="nairn" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
