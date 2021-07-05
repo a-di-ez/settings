@@ -7,6 +7,15 @@
       <sshConfig host="3.136.88.248" id="68affa65-f0a3-47a4-b863-ed5eb7fa6413" keyPath="$USER_HOME$/.ssh/gj-us.pem" port="22" customName="gj_wp_usa" nameFormat="CUSTOM" username="bitnami">
         <option name="customName" value="gj_wp_usa" />
       </sshConfig>
+      <sshConfig host="development-server.aws.hicalibertest.com.au" id="3cf83f83-50e8-4223-aae7-f1d970f8ebb0" keyPath="$USER_HOME$/.ssh/staging_rsa" port="22" customName="staging" nameFormat="CUSTOM" username="bitnami">
+        <option name="customName" value="staging" />
+      </sshConfig>
+      <sshConfig host="13.238.169.212" id="299744ee-b592-41ba-ac6e-91ff5f37899e" keyPath="$USER_HOME$/.ssh/gj-au.pem" port="22" customName="gj_wp_au" nameFormat="CUSTOM" username="ubuntu">
+        <option name="customName" value="gj_wp_au" />
+      </sshConfig>
+      <sshConfig host="mygjgardner.com.au" id="2f918f6e-2bc8-4acd-9450-296338ad234b" keyPath="$USER_HOME$/.ssh/vadim_rsa" port="22" customName="gj_momentum" nameFormat="CUSTOM" username="bitnami">
+        <option name="customName" value="gj_momentum" />
+      </sshConfig>
     </configs>
   </component>
 </application>
