@@ -5,6 +5,7 @@
       <mapping pattern="CurrentVersion" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pipelines" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="style" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
