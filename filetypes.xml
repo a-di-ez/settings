@@ -8,6 +8,7 @@
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".env.pipelines" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gj-gardner-url" type="PLAIN_TEXT" />
       <mapping ext="style" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="scssl" type="PLAIN_TEXT" />
